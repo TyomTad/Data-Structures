@@ -1,0 +1,3 @@
+/home/artyom/OOP/INTERPRETATOR/build/CMakeFiles/interpreter.dir
+/home/artyom/OOP/INTERPRETATOR/build/CMakeFiles/edit_cache.dir
+/home/artyom/OOP/INTERPRETATOR/build/CMakeFiles/rebuild_cache.dir

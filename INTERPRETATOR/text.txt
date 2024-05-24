@@ -1,0 +1,5 @@
+b = "hello"
+a = "exaaavv"
+c = 5 + 7
+si ( 5 < 6 )
+
